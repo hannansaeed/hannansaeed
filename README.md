@@ -6,13 +6,6 @@
 
 <br>
 
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9C&center=true&vCenter=true&width=600&lines=root%40xcthine%3A~%23+whoami;CyberSecurity+Researcher+%7C+DevSecOps;Mobile+%2B+Web+Developer;Breaking+things+so+you+don't+have+to+%3A%29" alt="Typing SVG" />
-</a>
-
-</div>
 
 ```yaml
 > user:      hannansaeed (Xcthine)
