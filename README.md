@@ -25,14 +25,6 @@
 
 <br>
 
-<div align="center">
-
-### 🐱 mood: retro
-
-<img src="./assets/retro-cat.svg" width="160"/>
-
-</div>
-
 <br>
 
 ## 🛠️ Tech Stack
