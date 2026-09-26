@@ -10,8 +10,8 @@
 ```yaml
 > user:      hannansaeed (Xcthine)
 > role:      CyberSecurity Researcher / Mobile & Web Developer / DevSecOps
-> focus:     on-device threat detection, secure mobile architecture, offensive security
-> currently: 🚧 heads-down building Cyfex
+> focus:     Threat detection, Secure architecture, Offensive security
+> currently: 🚧 heads-down building 
 > reading:   always something
 > fun_fact:  I'd rather find the bug than write the changelog
 ```
